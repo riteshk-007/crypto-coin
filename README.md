@@ -1,4 +1,5 @@
 # Crypto Coin
+![image](https://github.com/riteshk-007/crypto-coin/assets/135107962/aabf45c7-6ba4-4aa3-94d3-42b184372a1e)
 
 Crypto Coin is a web application that provides real-time information about various cryptocurrencies. It allows users to track cryptocurrency prices, view historical data, and stay updated with the latest trends in the crypto market.
 
@@ -40,6 +41,7 @@ npm start
 ```
 
 5. Open your browser and visit `http://localhost:3000` to access the application.
+![image](https://github.com/riteshk-007/crypto-coin/assets/135107962/da401d59-9b79-4a32-bdeb-0257a51b8eb1)
 
 ## Technologies Used
 
@@ -50,6 +52,11 @@ npm start
 - Firebase (Authentication, Firestore)
 
 ## Project Structure
+![image](https://github.com/riteshk-007/crypto-coin/assets/135107962/605dfa21-1afb-4bf0-be0f-37b5cd903da7)
+![image](https://github.com/riteshk-007/crypto-coin/assets/135107962/b28d25d2-7a79-4ce8-b2aa-8ea60e2b1b1f)
+![image](https://github.com/riteshk-007/crypto-coin/assets/135107962/3793654f-1ab6-4ed0-bde5-bab97333e08b)
+
+
 
 The project structure follows the standard React application structure:
 
@@ -64,6 +71,7 @@ The project structure follows the standard React application structure:
   - `index.js`: The entry point of the application.
 
 ## Contributing
+![image](https://github.com/riteshk-007/crypto-coin/assets/135107962/785861ba-b8d9-4869-b902-9a4c3f9fd167)
 
 Contributions are welcome! If you find any issues or would like to add new features, please open an issue or submit a pull request on the [GitHub repository](https://github.com/riteshk-007/crypto-coin).
 
@@ -72,9 +80,11 @@ Contributions are welcome! If you find any issues or would like to add new featu
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
+![image](https://github.com/riteshk-007/crypto-coin/assets/135107962/4c09b8f8-44e8-4a2d-948e-f141798db095)
 
 - The project utilizes the CoinGecko API to retrieve cryptocurrency data.
 - Special thanks to the creators of the libraries and frameworks used in this project.
+![image](https://github.com/riteshk-007/crypto-coin/assets/135107962/8e69019c-3514-4b66-9f93-d4ce1f011f38)
 
 ## Contact
 
